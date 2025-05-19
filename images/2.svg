@@ -1,0 +1,19 @@
+<svg width="50%" height="50%" id="svg1569" viewBox="0 0 6.3499999 6.3500002" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg">
+    <linearGradient id="linearGradient3094" gradientUnits="userSpaceOnUse" x1="1.356" x2="5.06494"
+        y1="293.923295" y2="293.923295">
+        <stop id="stop2759" offset="0" stop-color="#ffda00"></stop>
+        <stop id="stop2761" offset="1" stop-color="#fd5e00"></stop>
+    </linearGradient>
+    <g id="layer1" transform="translate(0 -290.65)">
+        <path id="path2282"
+            d="m2.3688475 290.78254c-.1496992 0-.2523742.12746-.252181.26355v.26458h-.5296834a.26460982.26460982 0 0 0 -.2635499.26355v5.0276a.26460982.26460982 0 0 0 .2635499.26562h3.1760335a.26460982.26460982 0 0 0 .2635499-.26562v-5.0276a.26460982.26460982 0 0 0 -.2635499-.26355h-.5291666v-.26458c-.0005028-.14541-.1181418-.26304-.2635499-.26355zm-.5157309 1.05781h.5291667 1.5880168.5291667v4.49792h-2.6463502zm.5291667 1.32189a.26460982.26460982 0 0 0 -.2656168.26561v.79324a.26460982.26460982 0 0 0 .2656168.26561h1.5880168a.26460982.26460982 0 0 0 .2635499-.26561v-.79324a.26460982.26460982 0 0 0 -.2635499-.26561zm0 1.58801a.26460982.26460982 0 0 0 -.2656168.26355v.7953a.26460982.26460982 0 0 0 .2656168.26355h1.5880168a.26460982.26460982 0 0 0 .2635499-.26355v-.7953a.26460982.26460982 0 0 0 -.2635499-.26355z"
+            fill="url(#linearGradient3094)" font-variant-ligatures="normal"
+            font-variant-position="normal" font-variant-caps="normal" font-variant-numeric="normal"
+            font-variant-alternates="normal" font-feature-settings="normal" text-indent="0"
+            text-align="start" text-decoration-line="none" text-decoration-style="solid"
+            text-decoration-color="#000000" text-transform="none" text-orientation="mixed"
+            white-space="normal" shape-padding="0" isolation="auto" mix-blend-mode="normal"
+            solid-color="#000000" solid-opacity="1" vector-effect="none"></path>
+    </g>
+</svg>
